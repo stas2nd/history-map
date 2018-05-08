@@ -1,0 +1,14 @@
+<svg width="57" height="57" viewBox="0 0 57 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>icon_play</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-25840 -7755)">
+<g id="icon_play">
+<g id="Play">
+<use xlink:href="#path0_fill" transform="translate(25840 7755)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 28.5 0C 12.7598 0 0 12.7598 0 28.5C 0 44.2402 12.7598 57 28.5 57C 44.2402 57 57 44.2402 57 28.5C 57 12.7598 44.2402 0 28.5 0ZM 1 28.5C 1 13.312 13.3125 1 28.5 1C 43.6875 1 56 13.312 56 28.5C 56 43.688 43.6875 56 28.5 56C 13.3125 56 1 43.688 1 28.5ZM 21 39.7583L 40.5 28.5L 21 17.2417L 21 39.7583Z"/>
+</defs>
+</svg>

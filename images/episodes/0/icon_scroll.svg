@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="83px" viewBox="0 0 36 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_scroll</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Блок-вопросов/ответов-№2" transform="translate(-665.000000, -566.000000)" fill-rule="nonzero" fill="#FF4A68">
+            <g id="Group-9" transform="translate(665.000000, 566.000000)">
+                <g id="Group-30">
+                    <path d="M6,14 C-2.836556,14 -10,21.163444 -10,30 C-10,38.836556 -2.836556,46 6,46 L30,46 C38.836556,46 46,38.836556 46,30 C46,21.163444 38.836556,14 30,14 L6,14 Z M6,12 L30,12 C39.9411255,12 48,20.0588745 48,30 C48,39.9411255 39.9411255,48 30,48 L6,48 C-3.9411255,48 -12,39.9411255 -12,30 C-12,20.0588745 -3.9411255,12 6,12 Z" id="Rectangle-3-Copy-5" transform="translate(18.000000, 30.000000) rotate(90.000000) translate(-18.000000, -30.000000) "></path>
+                    <polygon id="Path-3-Copy-2" transform="translate(18.242641, 72.242641) rotate(45.000000) translate(-18.242641, -72.242641) " points="10.8535534 77.631728 10.8535534 79.631728 25.631728 79.631728 25.631728 64.8535534 23.631728 64.8535534 23.631728 77.631728"></polygon>
+                    <polygon id="Line-2" points="19 24 19 13 17 13 17 24"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

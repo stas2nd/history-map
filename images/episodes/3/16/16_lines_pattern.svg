@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="223px" height="523px" viewBox="0 0 223 523" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>16_lines_pattern_1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="16_Boldyrev_desktop" transform="translate(-149.000000, -400.000000)" stroke="#FF4A68" stroke-width="3">
+            <g id="Group-2" transform="translate(150.000000, 402.000000)">
+                <g id="lines-copy-2" transform="translate(110.500000, 259.500000) rotate(-180.000000) translate(-110.500000, -259.500000) ">
+                    <path d="M1,86 L1,186" id="Line"></path>
+                    <path d="M1,419 L1,519" id="Line-Copy-11"></path>
+                    <path d="M104,156 L104,256" id="Line-Copy-2"></path>
+                    <path d="M50,236 L50,336" id="Line-Copy-8"></path>
+                    <path d="M175,319 L175,419" id="Line-Copy-9"></path>
+                    <path d="M146,0 L146,100" id="Line-Copy-3"></path>
+                    <path d="M220,106 L220,206" id="Line-Copy-7"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

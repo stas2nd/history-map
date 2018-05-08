@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 1500" style="enable-background:new 0 0 720 1500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#959595;}
+</style>
+<g>
+	<polygon class="st0" points="181,140 539,140 539,181 220,181 220,401 559,401 559,381 240,381 240,199 559,199 559,120 161,120 
+		161,423 181,423 	"/>
+	<polygon class="st0" points="180,461 539,461 539,501 220,501 220,721 559,721 559,701 240,701 240,521 540,521 559,521 559,441 
+		160,441 160,744 180,744 	"/>
+	<polygon class="st0" points="180,780 539,780 539,821 220,821 220,1041 559,1041 559,1021 239,1021 239,840 559,840 559,760 
+		160,760 160,1063 180,1063 	"/>
+	<rect x="660" y="120" class="st0" width="20" height="1341"/>
+	<rect x="619.5" y="120" class="st0" width="20" height="1340"/>
+	<rect x="580" y="120" class="st0" width="20" height="1340"/>
+	<rect x="120" y="120" class="st0" width="20" height="1260"/>
+	<rect x="80.3" y="120" class="st0" width="20" height="1260"/>
+	<rect x="40.4" y="120" class="st0" width="20" height="1260"/>
+	<polygon class="st0" points="160,1380 180,1380 180,1101 541,1101 541,1252 220,1253.2 220,1273.2 559,1271.9 559,1081 160,1081 	
+		"/>
+	<polygon class="st0" points="220,1200 220,1220 499,1220 499,1141.2 220,1140 220,1160 479,1161.1 479,1200 	"/>
+	<path class="st0" d="M0,0v1500h720V0H0z M700,1480H20v-20h540v-19H20v-20.1l541,0.3l0-20l-541-0.3V101h660V81H20V61h661V41H20V20
+		h680V1480z"/>
+</g>
+</svg>

@@ -1,0 +1,53 @@
+<svg width="146" height="160" viewBox="0 0 146 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group 36</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-16641 16201)">
+<g id="Group 36" style="mix-blend-mode:multiply" opacity="0.5">
+<g id="Oval 8">
+<use xlink:href="#path0_stroke" transform="translate(16645 -16160)" fill="#D8D8D8"/>
+</g>
+<g id="Oval 8 Copy">
+<use xlink:href="#path0_stroke" transform="translate(16683 -16164)" fill="#D8D8D8"/>
+</g>
+<g id="Oval 8 Copy 2">
+<use xlink:href="#path0_stroke" transform="translate(16723 -16192)" fill="#D8D8D8"/>
+</g>
+<g id="Oval 8 Copy 3">
+<use xlink:href="#path0_stroke" transform="translate(16693 -16199)" fill="#D8D8D8"/>
+</g>
+<g id="Oval 8 Copy 4">
+<use xlink:href="#path0_stroke" transform="translate(16753 -16159)" fill="#D8D8D8"/>
+</g>
+<g id="Oval 8 Copy 5">
+<use xlink:href="#path0_stroke" transform="translate(16718 -16144)" fill="#D8D8D8"/>
+</g>
+<g id="Oval 8 Copy 6">
+<use xlink:href="#path0_stroke" transform="translate(16668 -16124)" fill="#D8D8D8"/>
+</g>
+<g id="Oval 8 Copy 7">
+<use xlink:href="#path0_stroke" transform="translate(16643 -16099)" fill="#D8D8D8"/>
+</g>
+<g id="Oval 8 Copy 8">
+<use xlink:href="#path0_stroke" transform="translate(16688 -16094)" fill="#D8D8D8"/>
+</g>
+<g id="Oval 8 Copy 9">
+<use xlink:href="#path0_stroke" transform="translate(16723 -16084)" fill="#D8D8D8"/>
+</g>
+<g id="Oval 8 Copy 10">
+<use xlink:href="#path0_stroke" transform="translate(16683 -16053)" fill="#D8D8D8"/>
+</g>
+<g id="Oval 8 Copy 11">
+<use xlink:href="#path0_stroke" transform="translate(16743 -16059)" fill="#D8D8D8"/>
+</g>
+<g id="Oval 8 Copy 12">
+<use xlink:href="#path0_stroke" transform="translate(16753 -16099)" fill="#D8D8D8"/>
+</g>
+<g id="Oval 8 Copy 13">
+<use xlink:href="#path0_stroke" transform="translate(16775 -16124)" fill="#D8D8D8"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 5 11.5C 8.58985 11.5 11.5 8.58985 11.5 5L 8.5 5C 8.5 6.933 6.933 8.5 5 8.5L 5 11.5ZM 11.5 5C 11.5 1.41015 8.58985 -1.5 5 -1.5L 5 1.5C 6.933 1.5 8.5 3.067 8.5 5L 11.5 5ZM 5 -1.5C 1.41015 -1.5 -1.5 1.41015 -1.5 5L 1.5 5C 1.5 3.067 3.067 1.5 5 1.5L 5 -1.5ZM -1.5 5C -1.5 8.58985 1.41015 11.5 5 11.5L 5 8.5C 3.067 8.5 1.5 6.933 1.5 5L -1.5 5Z"/>
+</defs>
+</svg>

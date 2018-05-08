@@ -1,0 +1,68 @@
+<svg width="562" height="342" viewBox="0 0 562 342" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>19_teaser_strips</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-51646 -6156)">
+<g id="19_teaser_strips">
+<g id="Stroke 1">
+<use xlink:href="#path0_fill" transform="matrix(0.703191 0.711002 -0.711002 0.703191 51992.2 6105.45)" fill="#FF0000"/>
+<use xlink:href="#path1_stroke" transform="matrix(0.703191 0.711002 -0.711002 0.703191 51992.2 6105.45)" fill="#FF002A"/>
+</g>
+<g id="Stroke 3">
+<use xlink:href="#path0_fill" transform="matrix(0.703191 0.711002 -0.711002 0.703191 51996 6183.25)" fill="#FF0000"/>
+<use xlink:href="#path1_stroke" transform="matrix(0.703191 0.711002 -0.711002 0.703191 51996 6183.25)" fill="#FF002A"/>
+</g>
+<g id="Stroke 5">
+<use xlink:href="#path0_fill" transform="matrix(0.703191 0.711002 -0.711002 0.703191 52154 6146)" fill="#FF0000"/>
+<use xlink:href="#path1_stroke" transform="matrix(0.703191 0.711002 -0.711002 0.703191 52154 6146)" fill="#FF002A"/>
+</g>
+<g id="Stroke 7">
+<use xlink:href="#path0_fill" transform="matrix(0.703191 0.711002 -0.711002 0.703191 51779.5 6207.51)" fill="#FF0000"/>
+<use xlink:href="#path1_stroke" transform="matrix(0.703191 0.711002 -0.711002 0.703191 51779.5 6207.51)" fill="#FF002A"/>
+</g>
+<g id="Stroke 9">
+<use xlink:href="#path0_fill" transform="matrix(0.703191 0.711002 -0.711002 0.703191 52120.9 6225.66)" fill="#FF0000"/>
+<use xlink:href="#path1_stroke" transform="matrix(0.703191 0.711002 -0.711002 0.703191 52120.9 6225.66)" fill="#FF002A"/>
+</g>
+<g id="Stroke 11">
+<use xlink:href="#path0_fill" transform="matrix(0.703191 0.711002 -0.711002 0.703191 51847.1 6246.07)" fill="#FF0000"/>
+<use xlink:href="#path1_stroke" transform="matrix(0.703191 0.711002 -0.711002 0.703191 51847.1 6246.07)" fill="#FF002A"/>
+</g>
+<g id="Stroke 13">
+<use xlink:href="#path0_fill" transform="matrix(0.703191 0.711002 -0.711002 0.703191 52007.4 6294.33)" fill="#FF0000"/>
+<use xlink:href="#path1_stroke" transform="matrix(0.703191 0.711002 -0.711002 0.703191 52007.4 6294.33)" fill="#FF002A"/>
+</g>
+<g id="Stroke 15">
+<use xlink:href="#path0_fill" transform="matrix(0.703191 0.711002 -0.711002 0.703191 51639.8 6275.33)" fill="#FF0000"/>
+<use xlink:href="#path1_stroke" transform="matrix(0.703191 0.711002 -0.711002 0.703191 51639.8 6275.33)" fill="#FF002A"/>
+</g>
+<g id="Stroke 17">
+<use xlink:href="#path0_fill" transform="matrix(0.703191 0.711002 -0.711002 0.703191 52154 6366)" fill="#FF0000"/>
+<use xlink:href="#path1_stroke" transform="matrix(0.703191 0.711002 -0.711002 0.703191 52154 6366)" fill="#FF002A"/>
+</g>
+<g id="Stroke 19">
+<use xlink:href="#path0_fill" transform="matrix(0.703191 0.711002 -0.711002 0.703191 51948.4 6339.97)" fill="#FF0000"/>
+<use xlink:href="#path1_stroke" transform="matrix(0.703191 0.711002 -0.711002 0.703191 51948.4 6339.97)" fill="#FF002A"/>
+</g>
+<g id="Stroke 21">
+<use xlink:href="#path0_fill" transform="matrix(0.703191 0.711002 -0.711002 0.703191 51886.4 6432.26)" fill="#FF0000"/>
+<use xlink:href="#path1_stroke" transform="matrix(0.703191 0.711002 -0.711002 0.703191 51886.4 6432.26)" fill="#FF002A"/>
+</g>
+<g id="Stroke 23">
+<use xlink:href="#path0_fill" transform="matrix(0.703191 0.711002 -0.711002 0.703191 51625.3 6343.13)" fill="#FF0000"/>
+<use xlink:href="#path1_stroke" transform="matrix(0.703191 0.711002 -0.711002 0.703191 51625.3 6343.13)" fill="#FF002A"/>
+</g>
+<g id="Stroke 25">
+<use xlink:href="#path0_fill" transform="matrix(0.703191 0.711002 -0.711002 0.703191 51780.7 6370.86)" fill="#FF0000"/>
+<use xlink:href="#path1_stroke" transform="matrix(0.703191 0.711002 -0.711002 0.703191 51780.7 6370.86)" fill="#FF002A"/>
+</g>
+<g id="Stroke 27">
+<use xlink:href="#path0_fill" transform="matrix(0.703191 0.711002 -0.711002 0.703191 51633.9 6441.47)" fill="#FF0000"/>
+<use xlink:href="#path1_stroke" transform="matrix(0.703191 0.711002 -0.711002 0.703191 51633.9 6441.47)" fill="#FF002A"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 76L 76 0L 0 76Z"/>
+<path id="path1_stroke" d="M 1.41421 77.4142L 77.4142 1.41421L 74.5858 -1.41421L -1.41421 74.5858L 1.41421 77.4142Z"/>
+</defs>
+</svg>

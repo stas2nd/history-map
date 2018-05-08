@@ -1,0 +1,26 @@
+<svg width="38" height="38" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(3073 -1952)">
+<g id="Group">
+<g id="Oval 9">
+<use xlink:href="#path0_stroke" transform="translate(-3072.4 1953)" fill="#4A4A4A"/>
+</g>
+<g id="Page 1 Copy 4">
+<mask id="mask0_outline" mask-type="alpha">
+<g id="Clip 2">
+<use xlink:href="#path1_fill" transform="translate(-3059.41 1962)" fill="#FFFFFF"/>
+</g>
+</mask>
+<g id="Fill 1" mask="url(#mask0_outline)">
+<use xlink:href="#path2_fill" transform="translate(-3059.41 1962)" fill="#4A4A4A"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 17.9868 36.5C 28.1972 36.5 36.4737 28.2169 36.4737 18L 35.4737 18C 35.4737 27.6653 27.6442 35.5 17.9868 35.5L 17.9868 36.5ZM 36.4737 18C 36.4737 7.78308 28.1972 -0.5 17.9868 -0.5L 17.9868 0.5C 27.6442 0.5 35.4737 8.33467 35.4737 18L 36.4737 18ZM 17.9868 -0.5C 7.77649 -0.5 -0.5 7.78308 -0.5 18L 0.5 18C 0.5 8.33467 8.32947 0.5 17.9868 0.5L 17.9868 -0.5ZM -0.5 18C -0.5 28.2169 7.77649 36.5 17.9868 36.5L 17.9868 35.5C 8.32947 35.5 0.5 27.6653 0.5 18L -0.5 18Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 4.49671 16.7143L 8.99342 16.7143L 8.99342 0L 4.49671 0L 0 0L 0 16.7143L 4.49671 16.7143Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 3.06828 16.7143L 3.06828 7.81678L 0 7.81678L 0 5.53662L 3.06828 5.53662L 3.06828 3.26003C 3.06828 1.46265 4.66366 0 6.62414 0L 8.99342 0L 8.99342 2.28016L 6.62414 2.28016C 6.03514 2.28016 5.55535 2.72003 5.55535 3.26003L 5.55535 5.53662L 8.87015 5.53662L 8.87015 7.81678L 5.55535 7.81678L 5.55535 16.7143L 3.06828 16.7143Z"/>
+</defs>
+</svg>

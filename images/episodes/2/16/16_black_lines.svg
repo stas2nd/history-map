@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1366px" height="220px" viewBox="0 0 1366 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>16_black_lines</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-dasharray="15,15,15,20" stroke-linejoin="round">
+        <g id="1-1-Desktop-#16" transform="translate(0.000000, -1311.000000)" stroke="#000000" stroke-width="5">
+            <g id="Group-6" transform="translate(-135.000000, 1311.000000)">
+                <path d="M135.5,61.5 L1508.5,219.5" id="Line-Copy-2"></path>
+                <path id="Line-Copy-2-decoration-1" d="M145.886226,65.7150089 L135.5,61.5 L146.572158,59.7543464"></path>
+                <path id="Line-Copy-2-decoration-2" d="M1497.42784,221.245654 L1508.5,219.5 L1498.11377,215.284991"></path>
+                <path d="M0.5,140.5 L1522.5,140.5" id="Line-Copy-3"></path>
+                <path id="Line-Copy-3-decoration-1" d="M11.3,143.5 L0.5,140.5 L11.3,137.5"></path>
+                <path id="Line-Copy-3-decoration-2" d="M1511.7,143.5 L1522.5,140.5 L1511.7,137.5"></path>
+                <path d="M38.5,2.5 L1560.5,2.5" id="Line-Copy-4"></path>
+                <path id="Line-Copy-4-decoration-1" d="M49.3,5.5 L38.5,2.5 L49.3,-0.5"></path>
+                <path id="Line-Copy-4-decoration-2" d="M1549.7,5.5 L1560.5,2.5 L1549.7,-0.5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

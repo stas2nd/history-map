@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_fb_red_hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="7 26 14 26 14 0 7 0 0 0 0 26"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ховеры" transform="translate(-1015.000000, -1614.000000)">
+            <g id="Group-23-Copy-4" transform="translate(1016.000000, 1615.000000)">
+                <g id="Group-5-Copy">
+                    <circle id="Oval-9" stroke="#FF4A68" fill="#FF4A68" cx="28" cy="28" r="28"></circle>
+                    <g id="Page-1-Copy-4" transform="translate(20.000000, 15.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M4.77637058,26 L4.77637058,12.159442 L0,12.159442 L0,8.61252086 L4.77637058,8.61252086 L4.77637058,5.07116265 C4.77637058,2.27523642 7.25988897,0 10.3117627,0 L14,0 L14,3.54692113 L10.3117627,3.54692113 C9.39486468,3.54692113 8.64798751,4.23116094 8.64798751,5.07116265 L8.64798751,8.61252086 L13.8081194,8.61252086 L13.8081194,12.159442 L8.64798751,12.159442 L8.64798751,26 L4.77637058,26 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

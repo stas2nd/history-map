@@ -1,0 +1,22 @@
+<svg width="36" height="83" viewBox="0 0 36 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>scroll-icon</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-58843 41146)">
+<g id="scroll-icon">
+<g id="Rectangle 3 Copy 5">
+<use xlink:href="#path0_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 58879 -41146)" fill="#330099"/>
+</g>
+<g id="Path 3 Copy 2">
+<use xlink:href="#path1_fill" transform="matrix(0.707107 0.707107 -0.707107 0.707107 58861.2 -41084.2)" fill="#330099"/>
+</g>
+<g id="Line 2">
+<use xlink:href="#path2_fill" transform="translate(58860 -41133)" fill="#330099"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 42 0L 18 0C 8.05859 -6.08736e-16 6.08496e-16 8.0625 0 18C -6.08496e-16 27.9375 8.05859 36 18 36L 42 36C 51.9414 36 60 27.9375 60 18C 60 8.0625 51.9414 6.08736e-16 42 0ZM 2 18C 2 9.16406 9.16406 2 18 2L 42 2C 50.8359 2 58 9.16406 58 18C 58 26.8359 50.8359 34 42 34L 18 34C 9.16406 34 2 26.8359 2 18Z"/>
+<path id="path1_fill" d="M 0 12.7782L 0 14.7782L 14.7782 14.7782L 14.7782 0L 12.7782 0L 12.7782 12.7782L 0 12.7782Z"/>
+<path id="path2_fill" d="M 2 11L 2 0L 0 0L 0 11L 2 11Z"/>
+</defs>
+</svg>

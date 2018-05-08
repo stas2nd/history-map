@@ -1,0 +1,12 @@
+<svg width="192" height="575" viewBox="0 0 192 575" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>icon_exclamation</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-28789 -7096)">
+<g id="icon_exclamation">
+<use xlink:href="#path0_fill" transform="translate(28768 6923)" fill="#FF4A68"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 133.594 574.422L 53.9062 574.422L 114.844 173.25L 212.5 173.25L 133.594 574.422ZM 21.4844 698.641C 21.4844 683.276 26.3021 670.646 35.9375 660.75C 45.8333 650.854 58.3333 645.646 73.4375 645.125C 88.2812 644.604 100.781 649.161 110.938 658.797C 121.094 668.432 126.172 680.672 126.172 695.516C 126.172 710.359 121.224 722.729 111.328 732.625C 101.693 742.26 89.3229 747.339 74.2188 747.859C 59.8958 748.38 47.526 744.083 37.1094 734.969C 26.6927 725.594 21.4844 713.484 21.4844 698.641Z"/>
+</defs>
+</svg>
