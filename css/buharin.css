@@ -1154,35 +1154,35 @@ canvas {
    }
 }
 .footer-social__link--fb:before {
-    background-image: url(../images/main_s2/icon_fb_black.svg) 
+    background-image: url(/../images/main_s2/icon_fb_black.svg) 
 }
 .footer-social__link--fb:hover:before {
-    background-image: url(../images/main_s2/icon_fb_red.svg) 
+    background-image: url(/../images/main_s2/icon_fb_red.svg) 
 }
 .footer-social__link--tw:before {
-    background-image: url(../images/main_s2/icon_tw_black.svg) 
+    background-image: url(/../images/main_s2/icon_tw_black.svg) 
 }
 .footer-social__link--tw:hover:before {
-    background-image: url(../images/main_s2/icon_tw_red.svg) 
+    background-image: url(/../images/main_s2/icon_tw_red.svg) 
 }
 .footer-social__link--ins:before {
-    background-image: url(../images/main_s2/icon_ig_black.svg) 
+    background-image: url(/../images/main_s2/icon_ig_black.svg) 
 }
 .footer-social__link--ins:hover:before {
-    background-image: url(../images/main_s2/icon_ig_red.svg) 
+    background-image: url(/../images/main_s2/icon_ig_red.svg) 
 }
 .footer-social__link--vk:before {
-    background-image: url(../images/main_s2/icon_vk_black.svg);
+    background-image: url(/../images/main_s2/icon_vk_black.svg);
     background-size: 15px auto 
 }
 .footer-social__link--vk:hover:before {
-    background-image: url(../images/main_s2/icon_vk_red.svg) 
+    background-image: url(/../images/main_s2/icon_vk_red.svg) 
 }
 .footer-social__link--yt:before {
-    background-image: url(../images/main_s2/icon_yt_black.svg) 
+    background-image: url(/../images/main_s2/icon_yt_black.svg) 
 }
 .footer-social__link--yt:hover:before {
-    background-image: url(../images/main_s2/icon_yt_red.svg) 
+    background-image: url(/../images/main_s2/icon_yt_red.svg) 
 }
 .footer-subscribe__form {
     padding: 0;
@@ -1408,7 +1408,7 @@ canvas {
     padding-left: 148px;
     color: #4a4a4a;
     background-color: #fff;
-    background-image: url(../images/main_s2/infographic_bg_desktop.jpg);
+    background-image: url(/../images/main_s2/infographic_bg_desktop.jpg);
     background-repeat: no-repeat;
     box-shadow: 0 11px 62px 0 rgba(74, 74, 74, .27) 
 }
@@ -1465,7 +1465,7 @@ canvas {
 }
 @media screen and (max-width:767px) {
     .introductory--info-death {
-        background-image: url(../images/main_s2/death_bg_phone.svg) 
+        background-image: url(/../images/main_s2/death_bg_phone.svg) 
    }
 }
 .introductory--info-death:after {
@@ -1476,7 +1476,7 @@ canvas {
     top: -15px;
     width: 314px;
     height: 397px;
-    background-image: url(../images/main_s2/death_img.svg);
+    background-image: url(/../images/main_s2/death_img.svg);
     background-repeat: no-repeat;
     background-size: cover 
 }
@@ -1495,7 +1495,7 @@ canvas {
 }
 @media screen and (max-width:767px) {
     .introductory--info-power {
-        background-image: url(../images/main_s2/borba_bg_phone.jpg) 
+        background-image: url(/../images/main_s2/borba_bg_phone.jpg) 
    }
 }
 .introductory--info-power:after {
@@ -1506,7 +1506,7 @@ canvas {
     top: -15px;
     width: 690px;
     height: 397px;
-    background-image: url(../images/main_s2/borba_img.svg);
+    background-image: url(/../images/main_s2/borba_img.svg);
     background-repeat: no-repeat;
     background-size: cover 
 }
@@ -1525,7 +1525,7 @@ canvas {
 }
 @media screen and (max-width:767px) {
     .introductory--info-emigration {
-        background-image: url(../images/main_s2/emigration_bg_phone.jpg) 
+        background-image: url(/../images/main_s2/emigration_bg_phone.jpg) 
    }
 }
 .introductory--info-emigration:after {
@@ -1536,7 +1536,7 @@ canvas {
     top: -15px;
     width: 753px;
     height: 397px;
-    background-image: url(../images/main_s2/emigration_img.svg);
+    background-image: url(/../images/main_s2/emigration_img.svg);
     background-repeat: no-repeat;
     background-size: cover 
 }
@@ -1555,7 +1555,7 @@ canvas {
 }
 @media screen and (max-width:767px) {
     .introductory--info-empire {
-        background-image: url(../images/main_s2/oskolki_bg_phone.jpg) 
+        background-image: url(/../images/main_s2/oskolki_bg_phone.jpg) 
    }
 }
 .introductory--info-empire .introductory__description {
@@ -1574,7 +1574,7 @@ canvas {
     top: -15px;
     width: 393px;
     height: 397px;
-    background-image: url(../images/main_s2/oskolki_img.svg);
+    background-image: url(/../images/main_s2/oskolki_img.svg);
     background-repeat: no-repeat;
     background-size: cover 
 }
@@ -1593,7 +1593,7 @@ canvas {
 }
 @media screen and (max-width:767px) {
     .introductory--info-money {
-        background-image: url(../images/main_s2/money_bg_phone.jpg) 
+        background-image: url(/../images/main_s2/money_bg_phone.jpg) 
    }
 }
 .introductory--info-money:after {
@@ -1604,7 +1604,7 @@ canvas {
     top: -15px;
     width: 634px;
     height: 397px;
-    background-image: url(../images/main_s2/money_img.svg);
+    background-image: url(/../images/main_s2/money_img.svg);
     background-repeat: no-repeat;
     background-size: cover 
 }
@@ -1622,11 +1622,11 @@ canvas {
    }
 }
 .introductory--info-socialism {
-    background-image: url(../images/main_s2/infographic_bg_desktop_blue.jpg) 
+    background-image: url(/../images/main_s2/infographic_bg_desktop_blue.jpg) 
 }
 @media screen and (max-width:767px) {
     .introductory--info-socialism {
-        background-image: url(../images/main_s2/socialism_bg_phone.jpg) 
+        background-image: url(/../images/main_s2/socialism_bg_phone.jpg) 
    }
 }
 .introductory--info-socialism .introductory__description {
@@ -1645,7 +1645,7 @@ canvas {
     top: -30px;
     width: 672px;
     height: 394px;
-    background-image: url(../images/main_s2/socialism_img.png);
+    background-image: url(/../images/main_s2/socialism_img.png);
     background-repeat: no-repeat;
     background-size: cover 
 }
@@ -1663,11 +1663,11 @@ canvas {
    }
 }
 .introductory--info-collect {
-    background-image: url(../images/main_s2/infographic_bg_desktop_blue.jpg) 
+    background-image: url(/../images/main_s2/infographic_bg_desktop_blue.jpg) 
 }
 @media screen and (max-width:767px) {
     .introductory--info-collect {
-        background-image: url(../images/main_s2/collectivism_bg_phone.jpg) 
+        background-image: url(/../images/main_s2/collectivism_bg_phone.jpg) 
    }
 }
 .introductory--info-collect .introductory__description {
@@ -1686,7 +1686,7 @@ canvas {
     top: -15px;
     width: 352px;
     height: 397px;
-    background-image: url(../images/main_s2/collectivism_img.png);
+    background-image: url(/../images/main_s2/collectivism_img.png);
     background-repeat: no-repeat;
     background-size: cover 
 }
@@ -1708,7 +1708,7 @@ canvas {
     padding-top: 48px;
     color: #4a4a4a;
     background-color: #fff;
-    background-image: url(../images/main_s2/chapaev.png);
+    background-image: url(/../images/main_s2/chapaev.png);
     background-size: auto 340px;
     background-position: 0 
 }
@@ -1726,7 +1726,7 @@ canvas {
         height: auto;
         padding: 250px 20px 47px;
         background-color: #e5e8f7;
-        background-image: url(../images/main_s2/chapaev_bg_phone.jpg);
+        background-image: url(/../images/main_s2/chapaev_bg_phone.jpg);
         background-position: top;
         background-size: 320px 
    }
@@ -1776,11 +1776,11 @@ canvas {
 }
 .introductory--buharin {
     background-color: #309;
-    background-image: url(../images/main_s2/buharin_bg.jpg) 
+    background-image: url(/../images/main_s2/buharin_bg.jpg) 
 }
 @media screen and (max-width:767px) {
     .introductory--buharin {
-        background-image: url(../images/main_s2/buharin_bg_phone.jpg) 
+        background-image: url(/../images/main_s2/buharin_bg_phone.jpg) 
    }
     .introductory--buharin .introductory__title:after {
         top: 50% 
@@ -1788,11 +1788,11 @@ canvas {
 }
 .introductory--gorky {
     background-color: #ff4a68;
-    background-image: url(../images/main_s2/gorky_bg.jpg) 
+    background-image: url(/../images/main_s2/gorky_bg.jpg) 
 }
 @media screen and (max-width:767px) {
     .introductory--gorky {
-        background-image: url(../images/main_s2/gorky_bg_phone.jpg) 
+        background-image: url(/../images/main_s2/gorky_bg_phone.jpg) 
    }
     .introductory--gorky .introductory__title:after {
         top: 30px 
@@ -1800,11 +1800,11 @@ canvas {
 }
 .introductory--panina {
     background-color: #ff4a68;
-    background-image: url(../images/main_s2/panina_bg.jpg) 
+    background-image: url(/../images/main_s2/panina_bg.jpg) 
 }
 @media screen and (max-width:767px) {
     .introductory--panina {
-        background-image: url(../images/main_s2/panina_bg_phone.jpg) 
+        background-image: url(/../images/main_s2/panina_bg_phone.jpg) 
    }
     .introductory--panina .introductory__title:after {
         top: 28px 
@@ -1812,11 +1812,11 @@ canvas {
 }
 .introductory--kollontai {
     background-color: #ff4a68;
-    background-image: url(../images/main_s2/kolontai_bg.jpg) 
+    background-image: url(/../images/main_s2/kolontai_bg.jpg) 
 }
 @media screen and (max-width:767px) {
     .introductory--kollontai {
-        background-image: url(../images/main_s2/kolontai_bg_phone.jpg) 
+        background-image: url(/../images/main_s2/kolontai_bg_phone.jpg) 
    }
     .introductory--kollontai .introductory__title:after {
         top: 60px 
@@ -1824,15 +1824,15 @@ canvas {
 }
 .introductory--boldurev {
     background-color: #ff4a68;
-    background-image: url(../images/main_s2/boldirev_bg.jpg) 
+    background-image: url(/../images/main_s2/boldirev_bg.jpg) 
 }
 @media screen and (max-width:767px) {
     .introductory--boldurev {
-        background-image: url(../images/main_s2/boldirev_bg_phone.jpg) 
+        background-image: url(/../images/main_s2/boldirev_bg_phone.jpg) 
    }
 }
 .introductory--genrih {
-    background-image: url(../images/main_s2/yagoda_bg.jpg);
+    background-image: url(/../images/main_s2/yagoda_bg.jpg);
     position: absolute;
     top: -420px;
     width: 1024px 
@@ -1849,17 +1849,17 @@ canvas {
         top: auto;
         -ms-flex-order: 1;
         order: 1;
-        background-image: url(../images/main_s2/yagoda_bg_phone.jpg) 
+        background-image: url(/../images/main_s2/yagoda_bg_phone.jpg) 
    }
 }
 .introductory--robert {
-    background-image: url(../images/main_s2/robinson_bg.jpg) 
+    background-image: url(/../images/main_s2/robinson_bg.jpg) 
 }
 @media screen and (max-width:767px) {
     .introductory--robert {
         -ms-flex-order: 3;
         order: 3;
-        background-image: url(../images/main_s2/robinson_bg_phone.jpg) 
+        background-image: url(/../images/main_s2/robinson_bg_phone.jpg) 
    }
 }
 .introductory__title {
@@ -2208,7 +2208,7 @@ button:focus {
     top: 0;
     left: 0;
     z-index: 15;
-    background-image: url(../images/main/icon_play.svg);
+    background-image: url(/../images/main/icon_play.svg);
     background-size: 72px;
     background-repeat: no-repeat;
     background-position: 50% 
@@ -3504,55 +3504,55 @@ br+.text--image {
 }
 @font-face {
     font-family: TTNormsMedium;
-    src: url(../fonts/TTNorms-Medium.otf);
+    src: url(/../fonts/TTNorms-Medium.otf);
     font-style: normal;
     font-weight: 400 
 }
 @font-face {
     font-family: TTNormsExtraBold;
-    src: url(../fonts/TTNorms-ExtraBold.otf);
+    src: url(/../fonts/TTNorms-ExtraBold.otf);
     font-style: normal;
     font-weight: 400 
 }
 @font-face {
     font-family: TTNormsExtraLight;
-    src: url(../fonts/TTNorms-ExtraLight.otf);
+    src: url(/../fonts/TTNorms-ExtraLight.otf);
     font-style: normal;
     font-weight: 400 
 }
 @font-face {
     font-family: ttnorms;
-    src: url(../fonts/ttnorms-regular.woff) format("woff"), url(../fonts/ttnorms-regular.woff2) format("woff2");
+    src: url(/../fonts/ttnorms-regular.woff) format("woff"), url(/../fonts/ttnorms-regular.woff2) format("woff2");
     font-weight: 400;
     font-style: normal 
 }
 @font-face {
     font-family: ttnorms;
-    src: url(../fonts/ttnorms-bold.woff) format("woff"), url(../fonts/ttnorms-bold.woff2) format("woff2");
+    src: url(/../fonts/ttnorms-bold.woff) format("woff"), url(/../fonts/ttnorms-bold.woff2) format("woff2");
     font-weight: 600;
     font-style: normal 
 }
 @font-face {
     font-family: ttnorms;
-    src: url(../fonts/ttnorms-extrabold.eot) format("eot"), url(../fonts/ttnorms-extrabold.woff2) format("woff2");
+    src: url(/../fonts/ttnorms-extrabold.eot) format("eot"), url(/../fonts/ttnorms-extrabold.woff2) format("woff2");
     font-weight: 700;
     font-style: normal 
 }
 @font-face {
     font-family: ttnorms;
-    src: url(../fonts/ttnorms-medium.woff) format("woff"), url(../fonts/ttnorms-medium.woff2) format("woff2");
+    src: url(/../fonts/ttnorms-medium.woff) format("woff"), url(/../fonts/ttnorms-medium.woff2) format("woff2");
     font-weight: 500;
     font-style: normal 
 }
 @font-face {
     font-family: ttnorms;
-    src: url(../fonts/ttnorms-light.woff) format("woff"), url(../fonts/ttnorms-light.woff2) format("woff2");
+    src: url(/../fonts/ttnorms-light.woff) format("woff"), url(/../fonts/ttnorms-light.woff2) format("woff2");
     font-weight: 300;
     font-style: normal 
 }
 @font-face {
     font-family: roboto;
-    src: url(../fonts/Roboto-Regular.woff) format("woff"), url(fonts/Roboto-Regular.woff2) format("woff2");
+    src: url(/../fonts/Roboto-Regular.woff) format("woff"), url(fonts/Roboto-Regular.woff2) format("woff2");
     font-weight: 400;
     font-style: normal 
 }
@@ -3764,7 +3764,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
     height: 30px;
     border: 0;
     background: 0;
-    background-image: url(../images/main/icon_close.svg);
+    background-image: url(/../images/main/icon_close.svg);
     background-repeat: no-repeat;
     position: absolute;
     top: 20px;
@@ -4044,14 +4044,14 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
        -webkit-appearance:none;
        background-color:transparent;
        border:none;
-       background:url(../images/main/header-arrow.png) 50% 0 no-repeat,linear-gradient(180deg,#ff4a68,transparent);
+       background:url(/../images/main/header-arrow.png) 50% 0 no-repeat,linear-gradient(180deg,#ff4a68,transparent);
        background-size:auto 16px,contain
    }
    .top-paddle{
        top:0
    }
    .b-header-overlay--violet .top-paddle{
-       background:url(../images/main/header-arrow.png) 50% 0 no-repeat,linear-gradient(180deg,#309,transparent);
+       background:url(/../images/main/header-arrow.png) 50% 0 no-repeat,linear-gradient(180deg,#309,transparent);
        background-size:auto 16px,contain
    }
    .bottom-paddle{
@@ -4059,7 +4059,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
        transform:rotate(180deg)
    }
    .b-header-overlay--violet .bottom-paddle{
-       background:url(../images/main/header-arrow.png) 50% 0 no-repeat,linear-gradient(180deg,#309,transparent);
+       background:url(/../images/main/header-arrow.png) 50% 0 no-repeat,linear-gradient(180deg,#309,transparent);
        background-size:auto 16px,contain
    }
    .hidden{
@@ -4104,7 +4104,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    display:none
 }
 .header--intro .header__menu{
-   background-image:url(../images/main/header/icon_menu.svg);
+   background-image:url(/../images/main/header/icon_menu.svg);
    background-size:cover
 }
 @media only screen and (max-width:479px){
@@ -4119,7 +4119,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    box-shadow:none
 }
 .header__result .header__menu{
-   background-image:url(../images/main/header/icon_menu.svg)
+   background-image:url(/../images/main/header/icon_menu.svg)
 }
 .header__result .header__menu:after,.header__result .header__page-name,.header__result .header__right-content{
    display:none
@@ -4145,12 +4145,12 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    background:0;
    border:0;
    cursor:pointer;
-   background-image:url(../images/episodes/4/icon_menu.svg);
+   background-image:url(/../images/episodes/4/icon_menu.svg);
    background-repeat:no-repeat;
    background-size:cover
 }
 .header__menu:hover{
-   background-image:url(../images/episodes/4/icon_menu-red.svg)
+   background-image:url(/../images/episodes/4/icon_menu-red.svg)
 }
 @media only screen and (max-width:479px){
    .header__menu{
@@ -4329,17 +4329,17 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    background-color:#ff4a68
 }
 .header__social-item:hover .header__social-icon-fb{
-   background-image:url(../images/episodes/1/general/icon_fb_header_white.svg)
+   background-image:url(/../images/episodes/1/general/icon_fb_header_white.svg)
 }
 .header__social-item:hover .header__social-icon-mail{
-   background-image:url(../images/episodes/1/general/icon_mail_header_white.svg)
+   background-image:url(/../images/episodes/1/general/icon_mail_header_white.svg)
 }
 .header__social-item:hover .header__social-icon-vk{
-   background-image:url(../images/episodes/1/general/icon_vk_header_white.svg);
+   background-image:url(/../images/episodes/1/general/icon_vk_header_white.svg);
    background-position-x:-1px
 }
 .header__social-item:hover .header__social-icon-tg{
-   background-image:url(../images/episodes/1/general/icon_tg_header_white.svg)
+   background-image:url(/../images/episodes/1/general/icon_tg_header_white.svg)
 }
 .header__social-item-list{
    padding:0;
@@ -4348,13 +4348,13 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
 .header__social-icon-fb{
    width:8px;
    height:15px;
-   background-image:url(../images/episodes/1/general/icon_fb.svg);
+   background-image:url(/../images/episodes/1/general/icon_fb.svg);
    background-repeat:no-repeat;
    background-size:cover
 }
 .header__social-icon-vk{
    height:8px;
-   background-image:url(../images/episodes/1/general/icon_vk.svg)
+   background-image:url(/../images/episodes/1/general/icon_vk.svg)
 }
 .header__social-icon-tg,.header__social-icon-vk{
    width:13px;
@@ -4363,7 +4363,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
 }
 .header__social-icon-tg{
    height:11px;
-   background-image:url(../images/episodes/1/general/icon_tg.svg)
+   background-image:url(/../images/episodes/1/general/icon_tg.svg)
 }
 .header__social-text{
    margin:0;
@@ -4374,7 +4374,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
 }
 .header__social-icon-mail{
    width:13px;
-   background-image:url(../images/episodes/1/general/icon_mail.svg)
+   background-image:url(/../images/episodes/1/general/icon_mail.svg)
 }
 .header__social-icon-mail,.header__social-icon-photo{
    display:block;
@@ -4386,7 +4386,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    position:relative;
    width:11px;
    padding:9px 20px;
-   background-image:url(../images/episodes/1/general/icon_photo.svg)
+   background-image:url(/../images/episodes/1/general/icon_photo.svg)
 }
 .header__social-icon-photo:before{
    content:"";
@@ -4529,7 +4529,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    width:30px;
    height:30px;
    display:block;
-   background-image:url(../images/episodes/1/general/icon_close.svg);
+   background-image:url(/../images/episodes/1/general/icon_close.svg);
    background-repeat:no-repeat;
    background-size:cover;
    cursor:pointer;
@@ -4569,7 +4569,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    letter-spacing:4px;
    text-transform:uppercase;
    background-color:#ff4a68;
-   background-image:url(../images/episodes/1/profile_image.png);
+   background-image:url(/../images/episodes/1/profile_image.png);
    background-position:100% 100%;
    background-repeat:no-repeat
 }
@@ -4586,15 +4586,15 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    line-height:30px!important
 }
 .profile--panina .profile__name{
-   background-image:url(../images/episodes/2/intro_panina.png)
+   background-image:url(/../images/episodes/2/intro_panina.png)
 }
 .profile--boldirev .profile__name{
-   background-image:url(../images/episodes/3/profile_boldirev.png);
+   background-image:url(/../images/episodes/3/profile_boldirev.png);
    background-size:75%;
    background-position:right -35px bottom -20px
 }
 .profile--gorky .profile__name{
-   background-image:url(../images/episodes/1/profile_gorky.png);
+   background-image:url(/../images/episodes/1/profile_gorky.png);
    background-size:75%;
    background-position:right -35px bottom
 }
@@ -4613,7 +4613,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
 }
 .profile--buharin .profile__name{
    background-color:#309;
-   background-image:url(../images/episodes/4/profile_buharin.png);
+   background-image:url(/../images/episodes/4/profile_buharin.png);
    background-position:right -5px bottom -30px;
    background-size:192px
 }
@@ -4687,28 +4687,28 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    background-size:auto
 }
 .profile__social-icon-fb{
-   background-image:url(../images/episodes/4/icon_fb_black.svg);
+   background-image:url(/../images/episodes/4/icon_fb_black.svg);
    background-size:10px 19px;
    border-bottom:1px solid #d8d8d8
 }
 .profile__social-icon-fb:hover{
-   background-image:url(../images/episodes/4/icon_fb.svg)
+   background-image:url(/../images/episodes/4/icon_fb.svg)
 }
 @media only screen and (max-width:639px){
    .profile__social-icon-fb:active,.profile__social-icon-fb:focus,.profile__social-icon-fb:hover{
-       background-image:url(../images/episodes/4/icon_fb_black.svg)
+       background-image:url(/../images/episodes/4/icon_fb_black.svg)
    }
 }
 .profile__social-icon-vk{
    background-size:17px 10px;
-   background-image:url(../images/episodes/4/icon_vk_black.svg)
+   background-image:url(/../images/episodes/4/icon_vk_black.svg)
 }
 .profile__social-icon-vk:hover{
-   background-image:url(../images/episodes/4/icon_vk.svg)
+   background-image:url(/../images/episodes/4/icon_vk.svg)
 }
 @media only screen and (max-width:639px){
    .profile__social-icon-vk:active,.profile__social-icon-vk:focus,.profile__social-icon-vk:hover{
-       background-image:url(../images/episodes/4/icon_vk_black.svg)
+       background-image:url(/../images/episodes/4/icon_vk_black.svg)
    }
 }
 .profile__score{
@@ -4751,7 +4751,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
 .profile__score-red{
    color:#ff4a68;
    background-color:#ffe6ea;
-   background-image:url(../images/episodes/1/general/plus_bg_profile.svg)
+   background-image:url(/../images/episodes/1/general/plus_bg_profile.svg)
 }
 .profile__score-red:before{
    background-image:radial-gradient(#ff4a68 0,rgba(255,163,178,.5) 63%,hsla(0,0%,100%,0) 100%);
@@ -4760,7 +4760,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
 .profile__score-blue{
    color:#309;
    background-color:rgba(51,0,153,0);
-   background-image:url(../images/episodes/1/general/line_bg_profile.svg)
+   background-image:url(/../images/episodes/1/general/line_bg_profile.svg)
 }
 .profile__score-blue:before{
    background:radial-gradient(#309 0,rgba(138,109,197,.5) 58%,hsla(0,0%,100%,.0001) 100%);
@@ -4769,7 +4769,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
 .profile__score-grey{
    display:none;
    color:#7c7a7a;
-   background-image:url(../images/episodes/1/general/circle_bg_profile.svg)
+   background-image:url(/../images/episodes/1/general/circle_bg_profile.svg)
 }
 .profile__score-grey:before{
    background:radial-gradient(at 50% 50%,rgba(#7C7A7A,.3),#fff)
@@ -4819,7 +4819,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    display:block;
    width:8px;
    height:16px;
-   background-image:url(../images/episodes/4/icon_arrow_right.svg);
+   background-image:url(/../images/episodes/4/icon_arrow_right.svg);
    background-position-x:right;
    background-repeat:no-repeat;
    background-size:auto
@@ -4829,7 +4829,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    background-color:#ff4a68
 }
 .profile__again:hover:after{
-   background-image:url(../images/episodes/4/icon_arrow_white_right.svg)
+   background-image:url(/../images/episodes/4/icon_arrow_white_right.svg)
 }
 .profile__again-mobile{
    display:none
@@ -4891,7 +4891,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    display:block;
    width:8px;
    height:16px;
-   background-image:url(../images/episodes/4/icon_arrow_right.svg);
+   background-image:url(/../images/episodes/4/icon_arrow_right.svg);
    background-position-x:right;
    background-repeat:no-repeat;
    background-size:auto
@@ -4901,7 +4901,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    background-color:#ff4a68
 }
 .profile__exit:hover:after{
-   background-image:url(../images/episodes/4/icon_arrow_white_right.svg)
+   background-image:url(/../images/episodes/4/icon_arrow_white_right.svg)
 }
 .profile__exit-mobile{
    display:none
@@ -5032,7 +5032,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    display:block;
    width:11px;
    height:12px;
-   background-image:url(../images/episodes/1/general/icon_close_red.svg);
+   background-image:url(/../images/episodes/1/general/icon_close_red.svg);
    background-repeat:no-repeat
 }
 @media only screen and (max-width:767px){
@@ -5047,7 +5047,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
        left:30px;
        width:30px;
        height:30px;
-       background-image:url(../images/episodes/1/general/icon_close.svg);
+       background-image:url(/../images/episodes/1/general/icon_close.svg);
        background-repeat:no-repeat
    }
 }
@@ -5152,7 +5152,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    box-sizing:border-box
 }
 .popup__col--woman{
-   background-image:url(../images/episodes/1/resume_popup_bg.png);
+   background-image:url(/../images/episodes/1/resume_popup_bg.png);
    background-repeat:no-repeat;
    background-position:100% 100%
 }
@@ -5257,7 +5257,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    padding:0;
    border:0;
    background:none;
-   background-image:url(../images/about/icon_subscribe_close.svg);
+   background-image:url(/../images/about/icon_subscribe_close.svg);
    background-size:cover;
    background-repeat:no-repeat;
    cursor:pointer
@@ -5268,7 +5268,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
        right:20px;
        width:30px;
        height:30px;
-       background-image:url(../images/about/icon_subscribe_close_mobile.svg)
+       background-image:url(/../images/about/icon_subscribe_close_mobile.svg)
    }
 }
 .popup-subscribe__content{
@@ -5305,7 +5305,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    }
 }
 .popup-subscribe__content-left{
-   background-image:url(../images/about/bg_subscribe.png);
+   background-image:url(/../images/about/bg_subscribe.png);
    background-size:cover;
    background-repeat:no-repeat
 }
@@ -5581,7 +5581,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
        top:0
    }
    .bottom-paddle,.top-paddle{
-       background:url(../images/main/header-arrow.png) 50% 0 no-repeat,linear-gradient(180deg,#ff4a68,transparent);
+       background:url(/../images/main/header-arrow.png) 50% 0 no-repeat,linear-gradient(180deg,#ff4a68,transparent);
        background-size:auto 16px,contain
    }
    .bottom-paddle{
@@ -5760,7 +5760,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    font-family:ttnorms,Helvetica,Arial,sans-serif;
    color:#4a4a4a;
    background-color:#e5e8f7;
-   background-image:url(../images/main_s2/context_bg.png);
+   background-image:url(/../images/main_s2/context_bg.png);
    background-repeat:no-repeat;
    background-size:980px auto;
    background-position:center 850px
@@ -5862,7 +5862,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
        padding:250px 20px 47px;
        margin-bottom:0;
        background-color:#e5e8f7;
-       background-image:url(../images/main_s2/collectivism_bg_phone.jpg);
+       background-image:url(/../images/main_s2/collectivism_bg_phone.jpg);
        background-repeat:no-repeat;
        background-position:top;
        background-size:320px
@@ -5878,7 +5878,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
        -ms-flex-order:2;
        order:2;
        padding:250px 20px 47px;
-       background-image:url(../images/main_s2/socialism_bg_phone.jpg);
+       background-image:url(/../images/main_s2/socialism_bg_phone.jpg);
        background-repeat:no-repeat;
        background-position:top
    }
@@ -6257,19 +6257,19 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    justify-content:flex-start
 }
 .social--red .social__item--fb{
-   background-image:url(../images/episodes/1/general/icon_fb_red.svg)
+   background-image:url(/../images/episodes/1/general/icon_fb_red.svg)
 }
 .social--red .social__item--fb:hover{
-   background-image:url(../images/episodes/1/general/icon_fb_red_hover.svg)
+   background-image:url(/../images/episodes/1/general/icon_fb_red_hover.svg)
 }
 .social--red .social__item--vk{
-   background-image:url(../images/episodes/1/general/icon_vk_red.svg)
+   background-image:url(/../images/episodes/1/general/icon_vk_red.svg)
 }
 .social--red .social__item--vk:hover{
-   background-image:url(../images/episodes/1/general/icon_vk_red_hover.svg)
+   background-image:url(/../images/episodes/1/general/icon_vk_red_hover.svg)
 }
 .social--red .social__item--tg{
-   background-image:url(../images/episodes/1/general/icon_tg_red.svg)
+   background-image:url(/../images/episodes/1/general/icon_tg_red.svg)
 }
 .social__item{
    width:56px;
@@ -6311,13 +6311,13 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    }
 }
 .social__item--fb{
-   background-image:url(../images/episodes/1/general/icon_fb_white.svg)
+   background-image:url(/../images/episodes/1/general/icon_fb_white.svg)
 }
 .social__item--vk{
-   background-image:url(../images/episodes/1/general/icon_vk_white.svg)
+   background-image:url(/../images/episodes/1/general/icon_vk_white.svg)
 }
 .social__item--tg{
-   background-image:url(../images/episodes/1/general/icon_tg_white.svg)
+   background-image:url(/../images/episodes/1/general/icon_tg_white.svg)
 }
 .media{
    position:relative
@@ -6405,7 +6405,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
        z-index:10
    }
    .media--mobile-video.is-active .play-icon{
-       background-image:url(../images/main/icon_pause.svg);
+       background-image:url(/../images/main/icon_pause.svg);
        background-size:44px;
        background-position:left 18px bottom 23px
    }
@@ -6464,7 +6464,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    border:none;
    border-radius:50%;
    background-color:transparent;
-   background-image:url(../images/episodes/4/icon_video_mute.svg);
+   background-image:url(/../images/episodes/4/icon_video_mute.svg);
    background-repeat:no-repeat;
    background-size:58px;
    cursor:pointer
@@ -6477,7 +6477,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    }
 }
 .media__button-mute.is-active{
-   background-image:url(../images/episodes/4/icon_video_volume.svg)
+   background-image:url(/../images/episodes/4/icon_video_volume.svg)
 }
 .media__hover{
    position:absolute;
@@ -6517,7 +6517,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    right:17px;
    width:44px;
    height:44px;
-   background-image:url(../images/main/icon_arrow_right.svg);
+   background-image:url(/../images/main/icon_arrow_right.svg);
    background-position:50%;
    background-size:contain;
    background-repeat:no-repeat
@@ -6577,7 +6577,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    background-repeat:no-repeat;
    background-size:cover;
    z-index:10;
-   background-image:url(../images/episodes/2/shock_video_overlay.jpg);
+   background-image:url(/../images/episodes/2/shock_video_overlay.jpg);
    cursor:pointer;
    -ms-flex-align:center;
    align-items:center
@@ -6744,7 +6744,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    border:none;
    border-radius:50%;
    background-color:transparent;
-   background-image:url(../images/episodes/4/icon_video_mute.svg);
+   background-image:url(/../images/episodes/4/icon_video_mute.svg);
    background-repeat:no-repeat;
    background-size:58px;
    cursor:pointer
@@ -6757,7 +6757,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    }
 }
 .post__button-mute.is-active{
-   background-image:url(../images/episodes/4/icon_video_volume.svg)
+   background-image:url(/../images/episodes/4/icon_video_volume.svg)
 }
 .post__footer{
    display:-ms-flexbox;
@@ -7369,7 +7369,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    width:100%;
    top:140px;
    height:390px;
-   background-image:url(../images/episodes/4/question_plus_bg.png);
+   background-image:url(/../images/episodes/4/question_plus_bg.png);
    background-repeat:no-repeat;
    background-position:50%
 }
@@ -7381,7 +7381,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    width:36px;
    height:83px;
    background-repeat:no-repeat;
-   background-image:url(../images/episodes/4/icon_scroll.svg);
+   background-image:url(/../images/episodes/4/icon_scroll.svg);
    background-size:contain;
    background-position:50%;
    margin:0 auto;
@@ -7392,7 +7392,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
 @media screen and (max-width:1023px){
    .b-question-block__scroll{
        padding:0;
-       background-image:url(../images/episodes/4/icon_arrow_violet_down.svg)
+       background-image:url(/../images/episodes/4/icon_arrow_violet_down.svg)
    }
 }
 .b-question-block.is-active .b-question-block__scroll{
@@ -7480,7 +7480,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    color:#ff4a68
 }
 .b-stat_plus:before{
-   background-image:url(../images/episodes/4/answer-plus.png)
+   background-image:url(/../images/episodes/4/answer-plus.png)
 }
 .b-stat_plus:after{
    color:#ff4a68
@@ -7489,7 +7489,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    color:#309
 }
 .b-stat_minus:before{
-   background-image:url(../images/episodes/4/answer-minus.png)
+   background-image:url(/../images/episodes/4/answer-minus.png)
 }
 .b-stat_minus:after{
    color:#309
@@ -7604,7 +7604,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    height:36px;
    background-size:cover;
    border-radius:100%;
-   background-image:url(../images/episodes/0/upick-left.png);
+   background-image:url(/../images/episodes/0/upick-left.png);
    transition:.6s
 }
 .b-upicks__left:hover{
@@ -7618,35 +7618,35 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    height:36px;
    background-size:cover;
    border-radius:100%;
-   background-image:url(../images/episodes/0/icon_user.svg);
+   background-image:url(/../images/episodes/0/icon_user.svg);
    transition:.6s
 }
 .b-upicks__right:hover{
    transition:.6s
 }
 .b-question-block--panina .b-upicks__left{
-   background-image:url(../images/episodes/2/icon_question_hero.png)
+   background-image:url(/../images/episodes/2/icon_question_hero.png)
 }
 .b-question-block--panina .b-upicks__right{
-   background-image:url(../images/episodes/2/icon_user.svg)
+   background-image:url(/../images/episodes/2/icon_user.svg)
 }
 .b-question-block--boldirev .b-upicks__left{
-   background-image:url(../images/episodes/3/icon_hero.png)
+   background-image:url(/../images/episodes/3/icon_hero.png)
 }
 .b-question-block--boldirev .b-upicks__right{
-   background-image:url(../images/episodes/3/icon_user.svg)
+   background-image:url(/../images/episodes/3/icon_user.svg)
 }
 .b-question-block--gorky .b-upicks__left{
-   background-image:url(../images/episodes/1/icon_hero.png)
+   background-image:url(/../images/episodes/1/icon_hero.png)
 }
 .b-question-block--gorky .b-upicks__right{
-   background-image:url(../images/episodes/1/icon_user.svg)
+   background-image:url(/../images/episodes/1/icon_user.svg)
 }
 .b-question-block--buharin .b-upicks__left{
-   background-image:url(../images/episodes/4/upic_episode.png)
+   background-image:url(/../images/episodes/4/upic_episode.png)
 }
 .b-question-block--buharin .b-upicks__right{
-   background-image:url(../images/episodes/4/upic_season.png)
+   background-image:url(/../images/episodes/4/upic_season.png)
 }
 .marked-text{
    display:inline-block;
@@ -7857,7 +7857,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    height:72px;
    -ms-flex-negative:0;
    flex-shrink:0;
-   background-image:url(../images/episodes/2/general/icon_arrow_right_grey.svg);
+   background-image:url(/../images/episodes/2/general/icon_arrow_right_grey.svg);
    background-repeat:no-repeat;
    background-size:contain;
    border:0;
@@ -7868,7 +7868,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    border-radius:100%
 }
 .num-block__arrow:hover{
-   background-image:url(../images/episodes/2/general/icon_arrow_right_grey_hover.svg)
+   background-image:url(/../images/episodes/2/general/icon_arrow_right_grey_hover.svg)
 }
 @media only screen and (max-width:1023px){
    .num-block__arrow{
@@ -7977,7 +7977,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
    height:72px;
    -ms-flex-negative:0;
    flex-shrink:0;
-   background-image:url(../images/episodes/2/general/icon_arrow_right_grey.svg);
+   background-image:url(/../images/episodes/2/general/icon_arrow_right_grey.svg);
    background-repeat:no-repeat;
    background-size:contain;
    border:0;
@@ -8548,7 +8548,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
 }
 .intro__pic--buharin{
    background-color:#309;
-   background-image:url(../images/episodes/4/intro_buharin.png);
+   background-image:url(/../images/episodes/4/intro_buharin.png);
    background-size:auto;
    background-position:100%
 }
@@ -8646,7 +8646,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
        display:block;
        right:30px;
        top:34px;
-       background-image:url(../images/episodes/0/icon-arrow.svg);
+       background-image:url(/../images/episodes/0/icon-arrow.svg);
        background-repeat:no-repeat;
        background-size:100% 100%;
        width:8px;
@@ -8707,7 +8707,7 @@ p{
    height:510px
 }
 .video__jpg{
-   background:url(../images/main/video.png) no-repeat 50%;
+   background:url(/../images/main/video.png) no-repeat 50%;
    background-size:cover;
    width:100%;
    height:100%;
@@ -8728,7 +8728,7 @@ p{
    left:50%;
    top:50%;
    transform:translate(-134px,-134px);
-   background:url(../images/main/play.svg) no-repeat 50%;
+   background:url(/../images/main/play.svg) no-repeat 50%;
    box-sizing:border-box;
    cursor:pointer;
    transition:all .4s
@@ -8746,7 +8746,7 @@ p{
    left:50%;
    top:50%;
    transform:translate(-134px,-134px);
-   background:url(../images/main/pause.svg) no-repeat 50%;
+   background:url(/../images/main/pause.svg) no-repeat 50%;
    box-sizing:border-box;
    cursor:pointer;
    transition:all .4s;
@@ -9102,16 +9102,16 @@ p{
    height:284px
 }
 .card_num_01 .card__image{
-   background:url(../images/main/card_01.png) no-repeat 50%
+   background:url(/../images/main/card_01.png) no-repeat 50%
 }
 .card_num_02 .card__image{
-   background:url(../images/main/card_02.png) no-repeat 50%
+   background:url(/../images/main/card_02.png) no-repeat 50%
 }
 .card_num_03 .card__image{
-   background:url(../images/main/card_03.png) no-repeat 50%
+   background:url(/../images/main/card_03.png) no-repeat 50%
 }
 .card_num_04 .card__image{
-   background:url(../images/main/card_04.png) no-repeat 50%
+   background:url(/../images/main/card_04.png) no-repeat 50%
 }
 .card__desc{
    font-weight:400;
@@ -9305,7 +9305,7 @@ a.card__button{
    margin-bottom:75px
 }
 .form form{
-   background:url(../images/main/form__bg.png) no-repeat left 80px top 0;
+   background:url(/../images/main/form__bg.png) no-repeat left 80px top 0;
    color:#fff;
    display:-ms-flexbox;
    display:flex;
@@ -9435,13 +9435,13 @@ a.card__button{
    top:-3px
 }
 .social-button_type_vk:before{
-   background:url(../images/main/social-button_type_vk.svg) no-repeat 50%
+   background:url(/../images/main/social-button_type_vk.svg) no-repeat 50%
 }
 .social-button_type_fb:before{
-   background:url(../images/main/social-button_type_fb.svg) no-repeat 50%
+   background:url(/../images/main/social-button_type_fb.svg) no-repeat 50%
 }
 .social-button_type_tg:before{
-   background:url(../images/main/social-button_type_tg.svg) no-repeat 50%
+   background:url(/../images/main/social-button_type_tg.svg) no-repeat 50%
 }
 .section_mode_footer .section__container{
    width:760px;
@@ -9498,16 +9498,16 @@ a.social-link:before{
    top:-1px
 }
 a.social-link_type_fb:before{
-   background:url(../images/main/social-link_type_fb.png) no-repeat 50%
+   background:url(/../images/main/social-link_type_fb.png) no-repeat 50%
 }
 a.social-link_type_vk:before{
-   background:url(../images/main/social-link_type_vk.png) no-repeat 50%
+   background:url(/../images/main/social-link_type_vk.png) no-repeat 50%
 }
 a.social-link_type_yt:before{
-   background:url(../images/main/social-link_type_yt.png) no-repeat 50%
+   background:url(/../images/main/social-link_type_yt.png) no-repeat 50%
 }
 a.social-link_type_ig:before{
-   background:url(../images/main/social-link_type_ig.png) no-repeat 50%
+   background:url(/../images/main/social-link_type_ig.png) no-repeat 50%
 }
 .footer__links{
    display:-ms-flexbox;
@@ -9699,7 +9699,7 @@ a.footer-link{
        letter-spacing:300
    }
    .slider-item_state_active .slider-item__bg_color_1{
-       background-image:url(../images/main/slider-item-01.png);
+       background-image:url(/../images/main/slider-item-01.png);
        background-repeat:no-repeat;
        background-size:cover;
        background-position:bottom
@@ -9714,7 +9714,7 @@ a.footer-link{
        top:50%;
        transform:translateY(-6px;
        );
-       background:url(../images/main/mobile-next.svg) no-repeat
+       background:url(/../images/main/mobile-next.svg) no-repeat
    }
    .section_mode_subscribe .section__container{
        width:100%;
@@ -9896,7 +9896,7 @@ a.footer-link{
        position:absolute;
        right:20px;
        top:20px;
-       background:url(../images/main/second-screen__close.svg) no-repeat 50%;
+       background:url(/../images/main/second-screen__close.svg) no-repeat 50%;
        width:22px;
        height:22px;
        z-index:901;
@@ -10417,7 +10417,7 @@ a.footer-link{
    font-size:16px;
    letter-spacing:2px;
    line-height:84px;
-   background-image:url(../images/episodes/0/icon_restart.svg);
+   background-image:url(/../images/episodes/0/icon_restart.svg);
    background-position:100%;
    background-repeat:no-repeat;
    text-transform:uppercase;
@@ -10426,7 +10426,7 @@ a.footer-link{
 }
 .result__restart:hover{
    color:#fff;
-   background-image:url(../images/episodes/4/icon_restart_hover.svg)
+   background-image:url(/../images/episodes/4/icon_restart_hover.svg)
 }
 @media screen and (max-width:1023px){
    .result__restart{
@@ -10434,12 +10434,12 @@ a.footer-link{
        box-sizing:border-box;
        margin-top:40px;
        padding:0 40px;
-       background-image:url(../images/episodes/0/icon-arrow.svg);
+       background-image:url(/../images/episodes/0/icon-arrow.svg);
        background-position:right 40px center;
        border-top:1px solid #fff
    }
    .result__restart:active,.result__restart:hover{
-       background-image:url(../images/episodes/4/icon_arrow_blue.svg);
+       background-image:url(/../images/episodes/4/icon_arrow_blue.svg);
        color:#309;
        background-color:#fff
    }
@@ -10605,7 +10605,7 @@ a.footer-link{
    box-sizing:border-box;
    background-color:#ff4a68;
    text-align:center;
-   background-image:url(../images/episodes/0/21/ep_end_pattern.svg);
+   background-image:url(/../images/episodes/0/21/ep_end_pattern.svg);
    background-repeat:no-repeat;
    background-position:44% bottom;
    position:absolute;
@@ -10669,7 +10669,7 @@ a.footer-link{
        letter-spacing:4px;
        line-height:83px;
        padding:0 40px;
-       background-image:url(../images/episodes/0/icon-arrow.svg);
+       background-image:url(/../images/episodes/0/icon-arrow.svg);
        background-repeat:no-repeat;
        background-position:center right 40px;
        border-left-width:0;
@@ -10685,7 +10685,7 @@ a.footer-link{
    }
 }
 .footer-map{
-   background-image:url(../images/main/map.png);
+   background-image:url(/../images/main/map.png);
    background-size:cover;
    background-attachment:fixed
 }
@@ -11204,7 +11204,7 @@ a.footer-link{
    min-height:100%;
    padding:250px 0 140px;
    box-sizing:border-box;
-   background-image:url(../images/episodes/4/0/0_cover_bg.jpg);
+   background-image:url(/../images/episodes/4/0/0_cover_bg.jpg);
    background-size:cover;
    background-repeat:no-repeat
 }
@@ -11408,7 +11408,7 @@ a.footer-link{
    z-index:20;
    width:120px;
    height:300px;
-   background-image:url(../images/episodes/4/1/1_pattern.svg);
+   background-image:url(/../images/episodes/4/1/1_pattern.svg);
    background-repeat:no-repeat;
    background-size:cover
 }
@@ -11503,7 +11503,7 @@ a.footer-link{
 }
 .page-meeting{
    padding-top:0;
-   background-image:url(../images/episodes/4/3/3_bg.png);
+   background-image:url(/../images/episodes/4/3/3_bg.png);
    background-position:top;
    background-repeat:no-repeat;
    background-size:auto 1694px
@@ -11784,7 +11784,7 @@ a.footer-link{
 .page-coalition__content{
    position:relative;
    z-index:10;
-   background-image:url(../images/episodes/4/5/5_bg.jpg);
+   background-image:url(/../images/episodes/4/5/5_bg.jpg);
    background-size:cover;
    background-repeat:no-repeat;
    background-color:#413d74
@@ -12270,7 +12270,7 @@ a.footer-link{
 }
 .page-mayakovsky__content{
    padding-bottom:80px;
-   background-image:url(../images/episodes/4/8/8_bg.jpg);
+   background-image:url(/../images/episodes/4/8/8_bg.jpg);
    background-size:cover;
    background-repeat:no-repeat;
    background-color:#413d74
@@ -12469,7 +12469,7 @@ a.footer-link{
 }
 .page-conspiracy__content{
    padding-bottom:80px;
-   background-image:url(../images/episodes/4/10/10_bg.jpg);
+   background-image:url(/../images/episodes/4/10/10_bg.jpg);
    background-repeat:no-repeat;
    background-size:cover;
    background-color:#413d74
@@ -13492,7 +13492,7 @@ a.footer-link{
 .page-renunciation__content{
    position:relative;
    padding-bottom:120px;
-   background-image:url(../images/episodes/4/17/17_bg.png);
+   background-image:url(/../images/episodes/4/17/17_bg.png);
    background-repeat:no-repeat;
    background-size:cover
 }
@@ -13806,7 +13806,7 @@ a.footer-link{
 }
 .page-last-word__content{
    padding-bottom:60px;
-   background-image:url(../images/episodes/4/19/19_bg.jpg);
+   background-image:url(/../images/episodes/4/19/19_bg.jpg);
    background-repeat:no-repeat;
    background-size:cover;
    background-color:#413d74
