@@ -1,9 +1,0 @@
-<svg viewBox="0 0 1000 600">
-    <defs>
-        <clipPath id="svgPath">
-            <circle  cx="300" cy="300" r="300" />
-            <circle  cx="700" cy="300" r="300" />
-            <!-- more circles... -->
-        </clipPath>
-    </defs>
-</svg>
