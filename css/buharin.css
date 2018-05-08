@@ -1154,35 +1154,35 @@ canvas {
    }
 }
 .footer-social__link--fb:before {
-    background-image: url(/../images/main_s2/icon_fb_black.svg) 
+    background-image: url(.././images/main_s2/icon_fb_black.svg) 
 }
 .footer-social__link--fb:hover:before {
-    background-image: url(/../images/main_s2/icon_fb_red.svg) 
+    background-image: url(.././images/main_s2/icon_fb_red.svg) 
 }
 .footer-social__link--tw:before {
-    background-image: url(/../images/main_s2/icon_tw_black.svg) 
+    background-image: url(.././images/main_s2/icon_tw_black.svg) 
 }
 .footer-social__link--tw:hover:before {
-    background-image: url(/../images/main_s2/icon_tw_red.svg) 
+    background-image: url(.././images/main_s2/icon_tw_red.svg) 
 }
 .footer-social__link--ins:before {
-    background-image: url(/../images/main_s2/icon_ig_black.svg) 
+    background-image: url(.././images/main_s2/icon_ig_black.svg) 
 }
 .footer-social__link--ins:hover:before {
-    background-image: url(/../images/main_s2/icon_ig_red.svg) 
+    background-image: url(.././images/main_s2/icon_ig_red.svg) 
 }
 .footer-social__link--vk:before {
-    background-image: url(/../images/main_s2/icon_vk_black.svg);
+    background-image: url(.././images/main_s2/icon_vk_black.svg);
     background-size: 15px auto 
 }
 .footer-social__link--vk:hover:before {
-    background-image: url(/../images/main_s2/icon_vk_red.svg) 
+    background-image: url(.././images/main_s2/icon_vk_red.svg) 
 }
 .footer-social__link--yt:before {
-    background-image: url(/../images/main_s2/icon_yt_black.svg) 
+    background-image: url(.././images/main_s2/icon_yt_black.svg) 
 }
 .footer-social__link--yt:hover:before {
-    background-image: url(/../images/main_s2/icon_yt_red.svg) 
+    background-image: url(.././images/main_s2/icon_yt_red.svg) 
 }
 .footer-subscribe__form {
     padding: 0;
@@ -1408,7 +1408,7 @@ canvas {
     padding-left: 148px;
     color: #4a4a4a;
     background-color: #fff;
-    background-image: url(/../images/main_s2/infographic_bg_desktop.jpg);
+    background-image: url(.././images/main_s2/infographic_bg_desktop.jpg);
     background-repeat: no-repeat;
     box-shadow: 0 11px 62px 0 rgba(74, 74, 74, .27) 
 }
@@ -1465,7 +1465,7 @@ canvas {
 }
 @media screen and (max-width:767px) {
     .introductory--info-death {
-        background-image: url(/../images/main_s2/death_bg_phone.svg) 
+        background-image: url(.././images/main_s2/death_bg_phone.svg) 
    }
 }
 .introductory--info-death:after {
@@ -1476,7 +1476,7 @@ canvas {
     top: -15px;
     width: 314px;
     height: 397px;
-    background-image: url(/../images/main_s2/death_img.svg);
+    background-image: url(.././images/main_s2/death_img.svg);
     background-repeat: no-repeat;
     background-size: cover 
 }
@@ -1495,7 +1495,7 @@ canvas {
 }
 @media screen and (max-width:767px) {
     .introductory--info-power {
-        background-image: url(/../images/main_s2/borba_bg_phone.jpg) 
+        background-image: url(.././images/main_s2/borba_bg_phone.jpg) 
    }
 }
 .introductory--info-power:after {
@@ -1506,7 +1506,7 @@ canvas {
     top: -15px;
     width: 690px;
     height: 397px;
-    background-image: url(/../images/main_s2/borba_img.svg);
+    background-image: url(.././images/main_s2/borba_img.svg);
     background-repeat: no-repeat;
     background-size: cover 
 }
@@ -1525,7 +1525,7 @@ canvas {
 }
 @media screen and (max-width:767px) {
     .introductory--info-emigration {
-        background-image: url(/../images/main_s2/emigration_bg_phone.jpg) 
+        background-image: url(.././images/main_s2/emigration_bg_phone.jpg) 
    }
 }
 .introductory--info-emigration:after {
@@ -1536,7 +1536,7 @@ canvas {
     top: -15px;
     width: 753px;
     height: 397px;
-    background-image: url(/../images/main_s2/emigration_img.svg);
+    background-image: url(.././images/main_s2/emigration_img.svg);
     background-repeat: no-repeat;
     background-size: cover 
 }
@@ -1555,7 +1555,7 @@ canvas {
 }
 @media screen and (max-width:767px) {
     .introductory--info-empire {
-        background-image: url(/../images/main_s2/oskolki_bg_phone.jpg) 
+        background-image: url(.././images/main_s2/oskolki_bg_phone.jpg) 
    }
 }
 .introductory--info-empire .introductory__description {
@@ -1574,7 +1574,7 @@ canvas {
     top: -15px;
     width: 393px;
     height: 397px;
-    background-image: url(/../images/main_s2/oskolki_img.svg);
+    background-image: url(.././images/main_s2/oskolki_img.svg);
     background-repeat: no-repeat;
     background-size: cover 
 }
@@ -1593,7 +1593,7 @@ canvas {
 }
 @media screen and (max-width:767px) {
     .introductory--info-money {
-        background-image: url(/../images/main_s2/money_bg_phone.jpg) 
+        background-image: url(.././images/main_s2/money_bg_phone.jpg) 
    }
 }
 .introductory--info-money:after {
@@ -1604,7 +1604,7 @@ canvas {
     top: -15px;
     width: 634px;
     height: 397px;
-    background-image: url(/../images/main_s2/money_img.svg);
+    background-image: url(.././images/main_s2/money_img.svg);
     background-repeat: no-repeat;
     background-size: cover 
 }
@@ -1622,11 +1622,11 @@ canvas {
    }
 }
 .introductory--info-socialism {
-    background-image: url(/../images/main_s2/infographic_bg_desktop_blue.jpg) 
+    background-image: url(.././images/main_s2/infographic_bg_desktop_blue.jpg) 
 }
 @media screen and (max-width:767px) {
     .introductory--info-socialism {
-        background-image: url(/../images/main_s2/socialism_bg_phone.jpg) 
+        background-image: url(.././images/main_s2/socialism_bg_phone.jpg) 
    }
 }
 .introductory--info-socialism .introductory__description {
@@ -1645,7 +1645,7 @@ canvas {
     top: -30px;
     width: 672px;
     height: 394px;
-    background-image: url(/../images/main_s2/socialism_img.png);
+    background-image: url(.././images/main_s2/socialism_img.png);
     background-repeat: no-repeat;
     background-size: cover 
 }
@@ -1663,11 +1663,11 @@ canvas {
    }
 }
 .introductory--info-collect {
-    background-image: url(/../images/main_s2/infographic_bg_desktop_blue.jpg) 
+    background-image: url(.././images/main_s2/infographic_bg_desktop_blue.jpg) 
 }
 @media screen and (max-width:767px) {
     .introductory--info-collect {
-        background-image: url(/../images/main_s2/collectivism_bg_phone.jpg) 
+        background-image: url(.././images/main_s2/collectivism_bg_phone.jpg) 
    }
 }
 .introductory--info-collect .introductory__description {
@@ -1686,7 +1686,7 @@ canvas {
     top: -15px;
     width: 352px;
     height: 397px;
-    background-image: url(/../images/main_s2/collectivism_img.png);
+    background-image: url(.././images/main_s2/collectivism_img.png);
     background-repeat: no-repeat;
     background-size: cover 
 }
@@ -1708,7 +1708,7 @@ canvas {
     padding-top: 48px;
     color: #4a4a4a;
     background-color: #fff;
-    background-image: url(/../images/main_s2/chapaev.png);
+    background-image: url(.././images/main_s2/chapaev.png);
     background-size: auto 340px;
     background-position: 0 
 }
@@ -1726,7 +1726,7 @@ canvas {
         height: auto;
         padding: 250px 20px 47px;
         background-color: #e5e8f7;
-        background-image: url(/../images/main_s2/chapaev_bg_phone.jpg);
+        background-image: url(.././images/main_s2/chapaev_bg_phone.jpg);
         background-position: top;
         background-size: 320px 
    }
@@ -1776,11 +1776,11 @@ canvas {
 }
 .introductory--buharin {
     background-color: #309;
-    background-image: url(/../images/main_s2/buharin_bg.jpg) 
+    background-image: url(.././images/main_s2/buharin_bg.jpg) 
 }
 @media screen and (max-width:767px) {
     .introductory--buharin {
-        background-image: url(/../images/main_s2/buharin_bg_phone.jpg) 
+        background-image: url(.././images/main_s2/buharin_bg_phone.jpg) 
    }
     .introductory--buharin .introductory__title:after {
         top: 50% 
@@ -1788,11 +1788,11 @@ canvas {
 }
 .introductory--gorky {
     background-color: #ff4a68;
-    background-image: url(/../images/main_s2/gorky_bg.jpg) 
+    background-image: url(.././images/main_s2/gorky_bg.jpg) 
 }
 @media screen and (max-width:767px) {
     .introductory--gorky {
-        background-image: url(/../images/main_s2/gorky_bg_phone.jpg) 
+        background-image: url(.././images/main_s2/gorky_bg_phone.jpg) 
    }
     .introductory--gorky .introductory__title:after {
         top: 30px 
@@ -1800,11 +1800,11 @@ canvas {
 }
 .introductory--panina {
     background-color: #ff4a68;
-    background-image: url(/../images/main_s2/panina_bg.jpg) 
+    background-image: url(.././images/main_s2/panina_bg.jpg) 
 }
 @media screen and (max-width:767px) {
     .introductory--panina {
-        background-image: url(/../images/main_s2/panina_bg_phone.jpg) 
+        background-image: url(.././images/main_s2/panina_bg_phone.jpg) 
    }
     .introductory--panina .introductory__title:after {
         top: 28px 
@@ -1812,11 +1812,11 @@ canvas {
 }
 .introductory--kollontai {
     background-color: #ff4a68;
-    background-image: url(/../images/main_s2/kolontai_bg.jpg) 
+    background-image: url(.././images/main_s2/kolontai_bg.jpg) 
 }
 @media screen and (max-width:767px) {
     .introductory--kollontai {
-        background-image: url(/../images/main_s2/kolontai_bg_phone.jpg) 
+        background-image: url(.././images/main_s2/kolontai_bg_phone.jpg) 
    }
     .introductory--kollontai .introductory__title:after {
         top: 60px 
@@ -1824,15 +1824,15 @@ canvas {
 }
 .introductory--boldurev {
     background-color: #ff4a68;
-    background-image: url(/../images/main_s2/boldirev_bg.jpg) 
+    background-image: url(.././images/main_s2/boldirev_bg.jpg) 
 }
 @media screen and (max-width:767px) {
     .introductory--boldurev {
-        background-image: url(/../images/main_s2/boldirev_bg_phone.jpg) 
+        background-image: url(.././images/main_s2/boldirev_bg_phone.jpg) 
    }
 }
 .introductory--genrih {
-    background-image: url(/../images/main_s2/yagoda_bg.jpg);
+    background-image: url(.././images/main_s2/yagoda_bg.jpg);
     position: absolute;
     top: -420px;
     width: 1024px 
@@ -1849,17 +1849,17 @@ canvas {
         top: auto;
         -ms-flex-order: 1;
         order: 1;
-        background-image: url(/../images/main_s2/yagoda_bg_phone.jpg) 
+        background-image: url(.././images/main_s2/yagoda_bg_phone.jpg) 
    }
 }
 .introductory--robert {
-    background-image: url(/../images/main_s2/robinson_bg.jpg) 
+    background-image: url(.././images/main_s2/robinson_bg.jpg) 
 }
 @media screen and (max-width:767px) {
     .introductory--robert {
         -ms-flex-order: 3;
         order: 3;
-        background-image: url(/../images/main_s2/robinson_bg_phone.jpg) 
+        background-image: url(.././images/main_s2/robinson_bg_phone.jpg) 
    }
 }
 .introductory__title {
@@ -2208,7 +2208,7 @@ button:focus {
     top: 0;
     left: 0;
     z-index: 15;
-    background-image: url(/../images/main/icon_play.svg);
+    background-image: url(.././images/main/icon_play.svg);
     background-size: 72px;
     background-repeat: no-repeat;
     background-position: 50% 
@@ -3504,55 +3504,55 @@ br+.text--image {
 }
 @font-face {
     font-family: TTNormsMedium;
-    src: url(/../fonts/TTNorms-Medium.otf);
+    src: url(.././fonts/TTNorms-Medium.otf);
     font-style: normal;
     font-weight: 400 
 }
 @font-face {
     font-family: TTNormsExtraBold;
-    src: url(/../fonts/TTNorms-ExtraBold.otf);
+    src: url(.././fonts/TTNorms-ExtraBold.otf);
     font-style: normal;
     font-weight: 400 
 }
 @font-face {
     font-family: TTNormsExtraLight;
-    src: url(/../fonts/TTNorms-ExtraLight.otf);
+    src: url(.././fonts/TTNorms-ExtraLight.otf);
     font-style: normal;
     font-weight: 400 
 }
 @font-face {
     font-family: ttnorms;
-    src: url(/../fonts/ttnorms-regular.woff) format("woff"), url(/../fonts/ttnorms-regular.woff2) format("woff2");
+    src: url(.././fonts/ttnorms-regular.woff) format("woff"), url(.././fonts/ttnorms-regular.woff2) format("woff2");
     font-weight: 400;
     font-style: normal 
 }
 @font-face {
     font-family: ttnorms;
-    src: url(/../fonts/ttnorms-bold.woff) format("woff"), url(/../fonts/ttnorms-bold.woff2) format("woff2");
+    src: url(.././fonts/ttnorms-bold.woff) format("woff"), url(.././fonts/ttnorms-bold.woff2) format("woff2");
     font-weight: 600;
     font-style: normal 
 }
 @font-face {
     font-family: ttnorms;
-    src: url(/../fonts/ttnorms-extrabold.eot) format("eot"), url(/../fonts/ttnorms-extrabold.woff2) format("woff2");
+    src: url(.././fonts/ttnorms-extrabold.eot) format("eot"), url(.././fonts/ttnorms-extrabold.woff2) format("woff2");
     font-weight: 700;
     font-style: normal 
 }
 @font-face {
     font-family: ttnorms;
-    src: url(/../fonts/ttnorms-medium.woff) format("woff"), url(/../fonts/ttnorms-medium.woff2) format("woff2");
+    src: url(.././fonts/ttnorms-medium.woff) format("woff"), url(.././fonts/ttnorms-medium.woff2) format("woff2");
     font-weight: 500;
     font-style: normal 
 }
 @font-face {
     font-family: ttnorms;
-    src: url(/../fonts/ttnorms-light.woff) format("woff"), url(/../fonts/ttnorms-light.woff2) format("woff2");
+    src: url(.././fonts/ttnorms-light.woff) format("woff"), url(.././fonts/ttnorms-light.woff2) format("woff2");
     font-weight: 300;
     font-style: normal 
 }
 @font-face {
     font-family: roboto;
-    src: url(/../fonts/Roboto-Regular.woff) format("woff"), url(fonts/Roboto-Regular.woff2) format("woff2");
+    src: url(.././fonts/Roboto-Regular.woff) format("woff"), url(fonts/Roboto-Regular.woff2) format("woff2");
     font-weight: 400;
     font-style: normal 
 }
@@ -3764,7 +3764,7 @@ header.is-active .hamburger-inner, header.is-active .hamburger-inner:after, head
     height: 30px;
     border: 0;
     background: 0;
-    background-image: url(/../images/main/icon_close.svg);
+    background-image: url(.././images/main/icon_close.svg);
     background-repeat: no-repeat;
     position: absolute;
     top: 20px;
