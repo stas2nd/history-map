@@ -18,7 +18,6 @@
   <![endif]-->
   <link rel="icon" type="image/png" href="favicon/shortcut-icon/16x16.png" sizes="16x16"/>
   <link rel="icon" type="image/png" href="favicon/shortcut-icon/24x24.png" sizes="24x24"/>
-  <link rel="icon" type="image/png" href="favicon/shortcut-icon/32x32.png" sizes="32x32"/>
   <link rel="icon" type="image/png" href="favicon/shortcut-icon/48x48.png" sizes="48x48"/>
   <link rel="icon" type="image/png" href="favicon/shortcut-icon/64x64.png" sizes="64x64"/>
   <link rel="icon" type="image/png" href="favicon/shortcut-icon/64x64-color.png" sizes="64x64"/>
@@ -31,59 +30,6 @@
   <link rel="apple-touch-icon" sizes="152x152" href="favicon/apple-touch-icon/152x152.png"/>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/svg.js/2.6.3/svg.min.js"></script>
   <script src="app/vendor.js"></script>
-  <script>
-    var windowWidth = screen.width;
-    if (windowWidth >= 1024) {
-        $('head').prepend('<meta name="viewport" content="initial-scale=1 user-scalable=no maximum-scale=1 width=device-width">')
-    } else if (windowWidth >= 768 && windowWidth < 1024) {
-        $('head').prepend('<meta name="viewport" content="width=1024 minimal-ui">')
-    } else if (windowWidth < 768) {
-        $('head').prepend('<meta name="viewport" content="width=320 minimal-ui">')
-    }
-    
-  </script><!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86900983-3"></script>
-  <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  
-  gtag('config', 'UA-86900983-3');
-  </script>
-  <script>
-      !function (e, a, t, n, g, c, o) {
-          e.GoogleAnalyticsObject = g, e.ga = e.ga || function () {
-                  (e.ga.q = e.ga.q || []).push(arguments)
-              }, e.ga.l = 1 * new Date, c = a.createElement(t), o = a.getElementsByTagName(t)[0], c.async = 1, c.src =
-              "https://www.google-analytics.com/analytics.js", o.parentNode.insertBefore(c, o)
-      }(window, document, "script", 0, "ga"), ga("create", "UA-86900983-3", "auto"), ga("send", "pageview")
-  </script>
-  <script type="text/javascript" >
-      (function (d, w, c) {
-          (w[c] = w[c] || []).push(function() {
-              try {
-                  w.yaCounter47358348 = new Ya.Metrika2({
-                      id:47358348,
-                      clickmap:true,
-                      trackLinks:true,
-                      accurateTrackBounce:true
-                  });
-              } catch(e) { }
-          });
-  
-          var n = d.getElementsByTagName("script")[0],
-              s = d.createElement("script"),
-              f = function () { n.parentNode.insertBefore(s, n); };
-          s.type = "text/javascript";
-          s.async = true;
-          s.src = "https://mc.yandex.ru/metrika/tag.js";
-  
-          if (w.opera == "[object Opera]") {
-              d.addEventListener("DOMContentLoaded", f, false);
-          } else { f(); }
-      })(document, window, "yandex_metrika_callbacks2");
-  </script>
-  <noscript><div><img src="https://mc.yandex.ru/watch/47358348" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 </head>
 <body>
   <header class="header is-hidden">
@@ -153,10 +99,21 @@
           <div class="col-xs-offset-1 col-xs-10">
             <div class="row">
               <div class="col-xs-12 col-md-6">
-                <p class="b-overlay-submenu-title">эпизоды</p><a class="b-header-link b-header-link-part" style="background-image: url('images/episodes/4/nav/header-buharin.png')" href="/2-svinarka-i-palach/1-buharin/"><b>Николай Бухарин</b><br/>любимец партии</a><a class="b-header-link b-header-link-part" style="background-image: url('images/episodes/0/nav/header-dybenko.png')" href="/1-neyedinaya-rossiya/1-kollontay/"><b>Коллонтай<br/>и Дыбенко</b><br/>Секс и революция</a><a class="b-header-link b-header-link-part" style="background-image: url('images/episodes/0/nav/header-panina.png')" href=" /1-neyedinaya-rossiya/2-panina/"><b>Графиня Панина</b><br/>Демократия или смерть</a><a class="b-header-link b-header-link-part" style="background-image: url('images/episodes/0/nav/header-boldyrev.png')" href="/1-neyedinaya-rossiya/3-boldyrev/"><b>Василий Болдырев</b><br/>Все оттенки белого</a><a class="b-header-link b-header-link-part" style="background-image: url('images/episodes/0/nav/header-gorky.png')" href="/1-neyedinaya-rossiya/4-gorkiy/"><b>Максим Горький</b><br/>Когда мечта сбылась</a>
+                <p class="b-overlay-submenu-title">эпизоды</p>
+                <a class="b-header-link b-header-link-part" style="background-image: url('images/episodes/4/nav/header-buharin.png')" href="https://kartaistorii.ru/2-svinarka-i-palach/1-buharin/"><b>Николай Бухарин</b><br/>любимец партии</a>
+                <a class="b-header-link b-header-link-part" style="background-image: url('images/episodes/0/nav/header-dybenko.png')" href="https://kartaistorii.ru/1-neyedinaya-rossiya/1-kollontay/"><b>Коллонтай<br/>и Дыбенко</b><br/>Секс и революция</a>
+                <a class="b-header-link b-header-link-part" style="background-image: url('images/episodes/0/nav/header-panina.png')" href="https://kartaistorii.ru/1-neyedinaya-rossiya/2-panina/"><b>Графиня Панина</b><br/>Демократия или смерть</a>
+                <a class="b-header-link b-header-link-part" style="background-image: url('images/episodes/0/nav/header-boldyrev.png')" href="https://kartaistorii.ru/1-neyedinaya-rossiya/3-boldyrev/"><b>Василий Болдырев</b><br/>Все оттенки белого</a>
+                <a class="b-header-link b-header-link-part" style="background-image: url('images/episodes/0/nav/header-gorky.png')" href="https://kartaistorii.ru/1-neyedinaya-rossiya/4-gorkiy/"><b>Максим Горький</b><br/>Когда мечта сбылась</a>
               </div>
               <div class="col-xs-12 col-md-6">
-                <p class="b-overlay-submenu-title">Инфографика</p><a class="b-header-link b-header-link-info b-header-link-info--collect" style="background-image: url('images/main/icon_menu_collect.svg')" href="/2-svinarka-i-palach/ig-collectivization/"><b>Коллективизация</b></a><a class="b-header-link b-header-link-info b-header-link-info--soldier" style="background-image: url('images/main/icon_menu_soldier.svg')" href="/1-neyedinaya-rossiya/ig-borba-za-vlast"><b>Борьба за власть</b></a><a class="b-header-link b-header-link-info b-header-link-info--death" style="background-image: url('images/main/icon_menu_death.svg')" href="/1-neyedinaya-rossiya/ig-zhizn-i-smert"><b>Жизнь и смерть</b></a><a class="b-header-link b-header-link-info b-header-link-info--oskolki" style="background-image: url('images/main/icon_menu_empire.svg')" href="/1-neyedinaya-rossiya/ig-oskolki/"><b>Осколки империи</b></a><a class="b-header-link b-header-link-info b-header-link-info--emigration" style="background-image: url('images/main/icon_menu_ship.svg')" href="/1-neyedinaya-rossiya/ig-emigracia/"><b>Эмиграция</b></a><a class="b-header-main-nav__about" href="/o-proekte/">О проекте</a>
+                <p class="b-overlay-submenu-title">Инфографика</p>
+                <a class="b-header-link b-header-link-info b-header-link-info--collect" style="background-image: url('images/main/icon_menu_collect.svg')" href="https://kartaistorii.ru/2-svinarka-i-palach/ig-collectivization/"><b>Коллективизация</b></a>
+                <a class="b-header-link b-header-link-info b-header-link-info--soldier" style="background-image: url('images/main/icon_menu_soldier.svg')" href="https://kartaistorii.ru/1-neyedinaya-rossiya/ig-borba-za-vlast"><b>Борьба за власть</b></a>
+                <a class="b-header-link b-header-link-info b-header-link-info--death" style="background-image: url('images/main/icon_menu_death.svg')" href="https://kartaistorii.ru/1-neyedinaya-rossiya/ig-zhizn-i-smert"><b>Жизнь и смерть</b></a>
+                <a class="b-header-link b-header-link-info b-header-link-info--oskolki" style="background-image: url('images/main/icon_menu_empire.svg')" href="https://kartaistorii.ru/1-neyedinaya-rossiya/ig-oskolki/"><b>Осколки империи</b></a>
+                <a class="b-header-link b-header-link-info b-header-link-info--emigration" style="background-image: url('images/main/icon_menu_ship.svg')" href="https://kartaistorii.ru/1-neyedinaya-rossiya/ig-emigracia/"><b>Эмиграция</b></a>
+                <a class="b-header-main-nav__about" href="/o-proekte/">О проекте</a>
               </div>
             </div>
           </div>
@@ -179,7 +136,7 @@
           <picture class="teaser__yandex">
             <source media="(min-width: 767px)" srcset="images/main_s2/yandex_logo.svg"/><img src="images/main_s2/yandex_mobile.svg"/>
           </picture></a>
-      </div><a class="teaser__biglink" href="/2-svinarka-i-palach/ig-collectivization/">
+      </div><a class="teaser__biglink" href="https://kartaistorii.ru/2-svinarka-i-palach/ig-collectivization/">
         <div class="teaser__desc">
           <div class="teaser__desc-content">
             <h1 class="teaser__desc-title">КАРТА ИСТОРИИ</h1>
@@ -190,7 +147,7 @@
         <div class="teaser__content">
           <p class="teaser__content-side">новое</p>
           <p class="teaser__content-title">коллективизация</p>
-          <p class="teaser__content-text">Как превратить огромную аграрную страну в промышленную сверхдержаву. Что случилось с советскими крестьянами в 1930-е годы. </p><a class="button teaser__content-link" href="/2-svinarka-i-palach/ig-collectivization/">смотреть</a>
+          <p class="teaser__content-text">Как превратить огромную аграрную страну в промышленную сверхдержаву. Что случилось с советскими крестьянами в 1930-е годы. </p><a class="button teaser__content-link" href="https://kartaistorii.ru/2-svinarka-i-palach/ig-collectivization/">смотреть</a>
         </div></a>
     </div>
   </section>
@@ -230,7 +187,7 @@
         <div class="introductory introductory--buharin" data-aos="fade-up" data-aos-delay="300">
           <h1 class="introductory__title">Николай Бухарин <br> Любимец партии</h1>
           <p class="introductory__description">Сохранить идеалы в борьбе за власть, требующей жертв и предательств</p>
-          <p class="introductory__side-title">эпизод</p><a class="button introductory__button introductory__button--play" href="/2-svinarka-i-palach/1-buharin/">играть</a>
+          <p class="introductory__side-title">эпизод</p><a class="button introductory__button introductory__button--play" href="https://kartaistorii.ru/2-svinarka-i-palach/1-buharin/">играть</a>
         </div>
       </div>
     </div>
@@ -479,8 +436,6 @@
       <h2 class="footer-social__title">Подписывайтесь и следите за нашими<br/>новостями и обновлениями в соцсетях</h2>
       <ul class="footer-social__list">
         <li class="footer-social__item"><a class="footer-social__link footer-social__link--fb" href="https://www.facebook.com/kartaistorii/">Facebook</a></li>
-        <!--li.footer-social__itema.footer-social__link.footer-social__link--tw(href="#") Twitter
-        -->
         <li class="footer-social__item"><a class="footer-social__link footer-social__link--ins" href="https://www.instagram.com/project1917/">Instagram</a></li>
         <li class="footer-social__item"><a class="footer-social__link footer-social__link--vk" href="https://vk.com/kartaistorii">ВКонтакте</a></li>
         <li class="footer-social__item"><a class="footer-social__link footer-social__link--yt" href="https://www.youtube.com/channel/UCOEkK6MI0YmpwAYomx3-3ng">Youtube</a></li>
