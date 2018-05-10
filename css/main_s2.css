@@ -2416,7 +2416,7 @@ header.is-active .hamburger-inner,header.is-active .hamburger-inner:after,header
 }
 @font-face{
     font-family:ttnorms;
-    src:url(../fonts/TTNnorms/extrabold.woff) format("woff"),url(../fonts/TTNnorms/extrabold.woff2) format("woff2");
+    src:url(../fonts/TTNorms/ExtraBold.woff) format("woff"),url(../fonts/TTNorms/ExtraBold.woff2) format("woff2");
     font-weight:700;
     font-style:normal
 }
