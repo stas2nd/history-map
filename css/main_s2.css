@@ -2410,25 +2410,25 @@ header.is-active .hamburger-inner,header.is-active .hamburger-inner:after,header
 }
 @font-face{
     font-family:ttnorms;
-    src:url(../../../fonts/ttnorms-bold.woff) format("woff"),url(../../../fonts/ttnorms-bold.woff2) format("woff2");
+    src:url(../fonts/ttnorms-bold.woff) format("woff"),url(../fonts/ttnorms-bold.woff2) format("woff2");
     font-weight:600;
     font-style:normal
 }
 @font-face{
     font-family:ttnorms;
-    src:url(../../../fonts/ttnorms-extrabold.woff) format("woff"),url(../../../fonts/ttnorms-extrabold.woff2) format("woff2");
+    src:url(../fonts/TTNnorms/extrabold.woff) format("woff"),url(../fonts/TTNnorms/extrabold.woff2) format("woff2");
     font-weight:700;
     font-style:normal
 }
 @font-face{
     font-family:ttnorms;
-    src:url(../../../fonts/ttnorms-medium.woff) format("woff"),url(../../../fonts/ttnorms-medium.woff2) format("woff2");
+    src:url(../fonts/ttnorms-medium.woff) format("woff"),url(../fonts/ttnorms-medium.woff2) format("woff2");
     font-weight:500;
     font-style:normal
 }
 @font-face{
     font-family:ttnorms;
-    src:url(../../../fonts/ttnorms-light.woff) format("woff"),url(../../../fonts/ttnorms-light.woff2) format("woff2");
+    src:url(../fonts/ttnorms-light.woff) format("woff"),url(../fonts/ttnorms-light.woff2) format("woff2");
     font-weight:300;
     font-style:normal
 }
